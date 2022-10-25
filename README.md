@@ -22,3 +22,5 @@ I am a Software Developer based in India
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krytax-24)](https://github.com/krytax-24/github-readme-stats)
 #
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krytax-24&&theme=radical&hide_border=true" alt="Krytax-24" /></p>
