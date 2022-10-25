@@ -9,7 +9,7 @@ I am a Software Developer based in India
   - 🏢 [LinkedIn](https://www.linkedin.com/in/krytax/)
 
 #
-[![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krytax-24&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/krytax-24/github-readme-stats)
+
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krytax-24)](https://github.com/krytax-24/github-readme-stats)
 #
@@ -28,11 +28,10 @@ I am a Software Developer based in India
 <h4>GitHub Stats :<h4>
 <hr>
 <p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krytax-24/&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true" /></p>  
+[![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krytax-24&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/krytax-24/github-readme-stats)</p>  
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krytax-24&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Krytax-24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krytax-24/&&theme=radical&hide_border=true" alt="Krytax-24" /></p>
 
 
