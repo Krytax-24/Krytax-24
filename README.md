@@ -15,3 +15,24 @@ I am a Software Developer based in India
 #
 <!--   ![Alt Text](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif) -->
 
+<p align="left"><a href="https://twitter.com/krytax_24" target="blank"><img src="https://img.shields.io/twitter/follow/029Satyam?logo=twitter&style=for-the-badge" alt="029satyam" /></a> <br />  <img src="https://komarev.com/ghpvc/?username=satyam1906&label=Profile%20views&color=0e75b6&style=flat" />  </p>
+
+<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/krytax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-singh-a99654128" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im_krytax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam.029" height="30" width="40" /></a>
+<a href="https://twitter.com/krytax_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+</p>
+     
+<h4>GitHub Stats :<h4>
+<hr>
+<p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krytax-24/&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true" /></p>  
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krytax-24&show_icons=true&locale=en&theme=radical&hide_border=true" alt="satyam1906" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krytax-24/&&theme=radical&hide_border=true" alt="satyam1906" /></p>
+
+
