@@ -8,11 +8,7 @@ I am a Software Developer based in India
 - 📫 Find me at:
   - 🏢 [LinkedIn](https://www.linkedin.com/in/krytax/)
 
-#
 
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krytax-24)](https://github.com/krytax-24/github-readme-stats)
-#
 <!--   ![Alt Text](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif) -->
 
 <p align="left"><a href="https://twitter.com/krytax_24" target="blank"><img src="https://img.shields.io/twitter/follow/krytax_24?logo=twitter&style=for-the-badge" alt="krytax_24" /></a> <br />  <img src="https://komarev.com/ghpvc/?username=satyam1906&label=Profile%20views&color=0e75b6&style=flat" />  </p>
@@ -25,12 +21,15 @@ I am a Software Developer based in India
 <a href="https://twitter.com/krytax_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
      
-<h4>GitHub Stats :<h4>
-<hr>
-<p>
-[![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krytax-24&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/krytax-24/github-readme-stats)</p>  
+<!-- <h4>GitHub Stats :<h4>
+<hr> -->
 
-
+#
+[![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krytax-24&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/krytax-24/github-readme-stats)  
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krytax-24)](https://github.com/krytax-24/github-readme-stats)
+#
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Krytax-24&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Krytax-24" /></p>
 
 
