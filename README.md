@@ -4,20 +4,15 @@ I am a Software Developer based in India
 
 - ⚡️ I love Progamming and Developing Solfwares
 - 🌱 I’m currently learning and making projects in Web Development and Android Development
-- 👯 I’m looking to collaborate on any new Web projects
-- 📫 Find me at:
-  - 🏢 [LinkedIn](https://www.linkedin.com/in/krytax/)
+- 👯 I’m looking to collaborate on any new Web and Android Projects
 
-
-<!--   ![Alt Text](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif) -->
-
-<p align="left"><a href="https://twitter.com/krytax_24" target="blank"><img src="https://img.shields.io/twitter/follow/krytax_24?logo=twitter&style=for-the-badge" alt="krytax_24" /></a> <br />  <img src="https://komarev.com/ghpvc/?username=satyam1906&label=Profile%20views&color=0e75b6&style=flat" />  </p>
+<p align="left"><a href="https://twitter.com/krytax_24" target="blank"><img src="https://img.shields.io/twitter/follow/krytax_24?logo=twitter&style=for-the-badge" alt="krytax_24"/></a> <br />  <img src="https://komarev.com/ghpvc/?username=Krytax-24&label=Profile%20views&color=0e75b6&style=flat" />  </p>
 
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/krytax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-singh-a99654128" height="30" width="40" /></a>
-<a href="https://www.instagram.com/im_krytax" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam.029" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im_krytax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam.029" height="30" width="40" /></a>
 <a href="https://twitter.com/krytax_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 </p>
      
