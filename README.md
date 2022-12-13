@@ -2,7 +2,7 @@
 
 I am a Software Developer based in India
 
-- ⚡️ I love Progamming and Developing Solfwares
+- ⚡️ I love Progamming and Developing Softwares
 - 🌱 I’m currently learning and making projects in Web Development and Android Development
 - 👯 I’m looking to collaborate on any new Web and Android Projects
 - 
