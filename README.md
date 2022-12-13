@@ -5,7 +5,7 @@ I am a Software Developer based in India
 - ⚡️ I love Progamming and Developing Softwares
 - 🌱 I’m currently learning and making projects in Web Development and Android Development
 - 👯 I’m looking to collaborate on any new Web and Android Projects
-- 
+
 <br>
 <p align="left"><a href="https://twitter.com/krytax_24" target="blank"><img src="https://img.shields.io/twitter/follow/krytax_24?logo=twitter&style=for-the-badge" alt="krytax_24"/></a> <br />  <img src="https://komarev.com/ghpvc/?username=Krytax-24&label=Profile%20views&color=0e75b6&style=flat" />  </p>
 
